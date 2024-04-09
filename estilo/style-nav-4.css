@@ -1,0 +1,31 @@
+#nav4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    background-color: #1d1d1d;
+}
+
+#nav4 .logo {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+#nav4 .logo p {
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+#nav4 a {
+    text-decoration: none;
+}
+
+#nav4 .botao {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+/*se outra pessoas estiver lendo isso, perdao peala bagunca que esse codigo eh*/

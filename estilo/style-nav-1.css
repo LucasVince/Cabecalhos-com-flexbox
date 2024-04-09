@@ -1,0 +1,44 @@
+#nav1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1d1d1d;
+}
+
+#nav1 a {
+    text-decoration: none;
+}
+
+#nav1 .logo {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 10px;
+}
+
+#nav1 .logo p {
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+#nav1 #botoes {
+    display: flex;
+    gap: 20px;
+}
+
+#nav1 #botoes a {
+    color: white;
+    font-weight: bolder;
+}
+
+#nav1 button {
+    height: 40px;
+    width: 75px;
+    border: none;
+    border-radius: 7px;
+    background-color: #0a3abd;
+    color: white;
+}
+
+/*se outra pessoas estiver lendo isso, perdao peala bagunca que esse codigo eh*/
